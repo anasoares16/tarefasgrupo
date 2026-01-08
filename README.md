@@ -98,6 +98,7 @@
 | Ana | Criar banco de dados |✅ Concluído|27/12/2025
 | Ana |Reescrita do código |✅ Concluído|03/01/2026
 | Ana |Reescrita do código |✅ Concluído|05/01/2026
+| Ana |Design da página inicial |✅ Concluído|07/01/2026
 
 
 ---
