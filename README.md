@@ -101,6 +101,7 @@
 | Ana |Design da página inicial |✅ Concluído|07/01/2026
 | Duda |Pagina de login |✅ Concluído|11/1/2026
 | Ana |Design da página inicial parcerias |✅ Concluído|25/01/2026
+| Ana |Questionário |✅ Concluído|25/01/2026
 
 
 ---
