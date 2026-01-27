@@ -102,7 +102,7 @@
 | Duda |Pagina de login |✅ Concluído|11/1/2026
 | Ana |Design da página inicial parcerias |✅ Concluído|25/01/2026
 | Ana |Questionário |✅ Concluído|25/01/2026
-
+| Ana |Design do questionário e tentativa de gráfico |✅ Concluído|26/01/2026
 
 ---
 
