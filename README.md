@@ -103,6 +103,7 @@
 | Ana |Design da página inicial parcerias |✅ Concluído|25/01/2026
 | Ana |Questionário |✅ Concluído|25/01/2026
 | Ana |Design do questionário e tentativa de gráfico |✅ Concluído|26/01/2026
+| Ana |Versão de janeiro finalizada |✅ Concluído|28/01/2026
 
 ---
 
